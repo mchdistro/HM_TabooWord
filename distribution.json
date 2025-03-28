@@ -1,0 +1,225 @@
+{
+  "version": "1.0.0",
+  "rss": "<LINK TO RSS FEED>",
+  "discord": {
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+  },
+  "servers": [
+    {
+      "id": "HM_TabooWord_test-1.20.1",
+      "name": "광물 챌린지",
+      "description": "Minecraft 1.20.1 (Fabric v0.16.10)",
+      "icon": "https://github.com/mchdistro/HM_TabooWord/raw/main/server-icon.png",
+      "version": "1.0.0",
+      "address": "tabooword.gotiger.ggm.kr",
+      "minecraftVersion": "1.20.1",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": true,
+      "autoconnect": true,
+      "modules": [
+        {
+          "id": "net.fabricmc:fabric-loader:0.16.10",
+          "name": "Fabric (fabric-loader)",
+          "type": "Fabric",
+          "artifact": {
+            "size": 1387408,
+            "MD5": "239d59118dec4324672b3d9e9d75efef",
+            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.20.1-fabric-0.16.10",
+              "name": "Fabric (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 2859,
+                "MD5": "8e5d25d0c32f12aa0fb9f55d273cee04",
+                "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/repo/versions/1.20.1-fabric-0.16.10/1.20.1-fabric-0.16.10.json"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.7.1",
+              "name": "Fabric (asm)",
+              "type": "Library",
+              "artifact": {
+                "size": 126093,
+                "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
+                "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.7.1",
+              "name": "Fabric (asm-analysis)",
+              "type": "Library",
+              "artifact": {
+                "size": 35126,
+                "MD5": "4cd9e7178dfb85371bba3077e40cd514",
+                "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.7.1",
+              "name": "Fabric (asm-commons)",
+              "type": "Library",
+              "artifact": {
+                "size": 73459,
+                "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
+                "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.7.1",
+              "name": "Fabric (asm-tree)",
+              "type": "Library",
+              "artifact": {
+                "size": 51939,
+                "MD5": "e85029f613b6469989cc7cf53fe06b74",
+                "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.7.1",
+              "name": "Fabric (asm-util)",
+              "type": "Library",
+              "artifact": {
+                "size": 94519,
+                "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
+                "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:sponge-mixin:0.15.4+mixin.0.8.7",
+              "name": "Fabric (sponge-mixin)",
+              "type": "Library",
+              "artifact": {
+                "size": 1494834,
+                "MD5": "991ca8be2c408fe19eb64014d8a18243",
+                "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:intermediary:1.20.1",
+              "name": "Fabric (intermediary)",
+              "type": "Library",
+              "artifact": {
+                "size": 573365,
+                "MD5": "3f4768ac751cac3418266d1d7aa15f55",
+                "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/repo/lib/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "generated.fabricmod:fabric-api:0.92.5+1.20.1@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2107841,
+            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/HM_TabooWord_test-1.20.1/fabricmods/required/fabric-api-0.92.5+1.20.1.jar",
+            "MD5": "9d6b286586e9d6b40ee161dee1dd271f"
+          }
+        },
+        {
+          "id": "fuzs.forgeconfigapiport.impl:forgeconfigapiport:8.0.2@jar",
+          "name": "Forge Config API Port",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 397239,
+            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/HM_TabooWord_test-1.20.1/fabricmods/required/ForgeConfigAPIPort-v8.0.2-1.20.1-Fabric.jar",
+            "MD5": "7dd3394a0da1c3b768631d7c7ec47a30"
+          }
+        },
+        {
+          "id": "generated.fabricmod:iris:1.7.6+mc1.20.1@jar",
+          "name": "Iris",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2726899,
+            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/HM_TabooWord_test-1.20.1/fabricmods/required/iris-1.7.6+mc1.20.1.jar",
+            "MD5": "45577adb5ab16505572c6ea4b1006e58"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods:sodium:0.5.13+mc1.20.1@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 971552,
+            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/HM_TabooWord_test-1.20.1/fabricmods/required/sodium-fabric-0.5.13+mc1.20.1.jar",
+            "MD5": "76e0349865f91f315aae087a6e88a84a"
+          }
+        },
+        {
+          "id": "de.maxhenkel:voicechat:1.20.1-2.5.28@jar",
+          "name": "Simple Voice Chat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 8098760,
+            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/HM_TabooWord_test-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.5.28.jar",
+            "MD5": "5b415e2a7775375e3be999d262341ba0"
+          }
+        },
+        {
+          "id": "xaero.minimap:xaerominimap:25.2.0@jar",
+          "name": "Xaero's Minimap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1736350,
+            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/HM_TabooWord_test-1.20.1/fabricmods/required/Xaeros_Minimap_25.2.0_Fabric_1.20.jar",
+            "MD5": "25ed3946439c65ba66ee8a9f9b2e416d"
+          }
+        },
+        {
+          "id": "xaerominimap.txt",
+          "name": "xaerominimap.txt",
+          "type": "File",
+          "artifact": {
+            "size": 3506,
+            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/HM_TabooWord_test-1.20.1/files/config/xaerominimap.txt",
+            "MD5": "7c8da7bb7b549115de38de475d2c87f8",
+            "path": "config/xaerominimap.txt"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 2169,
+            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/HM_TabooWord_test-1.20.1/files/options.txt",
+            "MD5": "cb7f6b0899ae229bacfaa08619f4b4b0",
+            "path": "options.txt"
+          }
+        },
+        {
+          "id": "generated_0811.zip",
+          "name": "generated_0811.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1288796,
+            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/HM_TabooWord_test-1.20.1/files/resourcepacks/generated_0811.zip",
+            "MD5": "f038793cb8918e6db47a9346cd36264f",
+            "path": "resourcepacks/generated_0811.zip"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 76,
+            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/HM_TabooWord_test-1.20.1/files/servers.dat",
+            "MD5": "6b0070bc04cb7af8c5ec7f5ab4742545",
+            "path": "servers.dat"
+          }
+        }
+      ]
+    }
+  ]
+}
