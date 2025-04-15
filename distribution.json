@@ -201,21 +201,21 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 2169,
+            "size": 2167,
             "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/HM_TabooWord_test-1.20.1/files/options.txt",
-            "MD5": "cb7f6b0899ae229bacfaa08619f4b4b0",
+            "MD5": "f88811cc4f7df7412ccb78124df6c3f8",
             "path": "options.txt"
           }
         },
         {
-          "id": "generated_0811.zip",
-          "name": "generated_0811.zip",
+          "id": "0415generated.zip",
+          "name": "0415generated.zip",
           "type": "File",
           "artifact": {
-            "size": 1288796,
-            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/HM_TabooWord_test-1.20.1/files/resourcepacks/generated_0811.zip",
-            "MD5": "f038793cb8918e6db47a9346cd36264f",
-            "path": "resourcepacks/generated_0811.zip"
+            "size": 1793569,
+            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/HM_TabooWord_test-1.20.1/files/resourcepacks/0415generated.zip",
+            "MD5": "a78788145422a2836598a1284ca66d87",
+            "path": "resourcepacks/0415generated.zip"
           }
         },
         {
