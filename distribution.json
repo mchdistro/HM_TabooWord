@@ -8,12 +8,12 @@
   },
   "servers": [
     {
-      "id": "HM_TabooWord_test-1.20.1",
-      "name": "광물 챌린지",
+      "id": "impulse_buying-1.20.1",
+      "name": "충동구매",
       "description": "Minecraft 1.20.1 (Fabric v0.16.10)",
       "icon": "https://github.com/mchdistro/HM_TabooWord/raw/main/server-icon.png",
       "version": "1.0.0",
-      "address": "tabooword.gotiger.ggm.kr",
+      "address": "mc.gotiger.dev:25563",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -121,7 +121,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1172214,
-            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/HM_TabooWord_test-1.20.1/fabricmods/required/cloth-config-11.1.136-fabric.jar",
+            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/impulse_buying-1.20.1/fabricmods/required/cloth-config-11.1.136-fabric.jar",
             "MD5": "45d8bada7797af61d1f5543313b1f9f0"
           }
         },
@@ -131,7 +131,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2107841,
-            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/HM_TabooWord_test-1.20.1/fabricmods/required/fabric-api-0.92.5+1.20.1.jar",
+            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/impulse_buying-1.20.1/fabricmods/required/fabric-api-0.92.5+1.20.1.jar",
             "MD5": "9d6b286586e9d6b40ee161dee1dd271f"
           }
         },
@@ -141,7 +141,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2726899,
-            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/HM_TabooWord_test-1.20.1/fabricmods/required/iris-1.7.6+mc1.20.1.jar",
+            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/impulse_buying-1.20.1/fabricmods/required/iris-1.7.6+mc1.20.1.jar",
             "MD5": "45577adb5ab16505572c6ea4b1006e58"
           }
         },
@@ -151,7 +151,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 7209180,
-            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/HM_TabooWord_test-1.20.1/fabricmods/required/journeymap-1.20.1-5.10.3-fabric.jar",
+            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/impulse_buying-1.20.1/fabricmods/required/journeymap-1.20.1-5.10.3-fabric.jar",
             "MD5": "4689aa2b7ae8126112e32a2069dc1040"
           }
         },
@@ -161,8 +161,28 @@
           "type": "FabricMod",
           "artifact": {
             "size": 448094,
-            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/HM_TabooWord_test-1.20.1/fabricmods/required/koreanpatch-fabric-1.6.13+mc1.20.1.jar",
+            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/impulse_buying-1.20.1/fabricmods/required/koreanpatch-fabric-1.6.13+mc1.20.1.jar",
             "MD5": "6e20891b8d2b8770569f819d4e765c4d"
+          }
+        },
+        {
+          "id": "generated.fabricmod:sj_core:2.0.1.9@jar",
+          "name": "SJ-Core",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 49079499,
+            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/impulse_buying-1.20.1/fabricmods/required/SJ-Core-2.0.1.9.jar",
+            "MD5": "2475b40c44b9b15d8d266b6e9406a3d8"
+          }
+        },
+        {
+          "id": "net.sjhub.sjnick:sj_nick:0.0.9@jar",
+          "name": "SJ-Nick",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 65857,
+            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/impulse_buying-1.20.1/fabricmods/required/SJ-Nick-0.0.9.jar",
+            "MD5": "1d28eac260a093f94b20db43e28ab457"
           }
         },
         {
@@ -171,7 +191,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 971552,
-            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/HM_TabooWord_test-1.20.1/fabricmods/required/sodium-fabric-0.5.13+mc1.20.1.jar",
+            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/impulse_buying-1.20.1/fabricmods/required/sodium-fabric-0.5.13+mc1.20.1.jar",
             "MD5": "76e0349865f91f315aae087a6e88a84a"
           }
         },
@@ -181,8 +201,19 @@
           "type": "FabricMod",
           "artifact": {
             "size": 8100303,
-            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/HM_TabooWord_test-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.5.29.jar",
+            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/impulse_buying-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.5.29.jar",
             "MD5": "5c560a757ea07af13eb35ad3c6309955"
+          }
+        },
+        {
+          "id": "iris.properties",
+          "name": "iris.properties",
+          "type": "File",
+          "artifact": {
+            "size": 285,
+            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/impulse_buying-1.20.1/files/config/iris.properties",
+            "MD5": "96e4d46ec3b39cecf7df5d91247bb1e7",
+            "path": "config/iris.properties"
           }
         },
         {
@@ -191,7 +222,7 @@
           "type": "File",
           "artifact": {
             "size": 3506,
-            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/HM_TabooWord_test-1.20.1/files/config/xaerominimap.txt",
+            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/impulse_buying-1.20.1/files/config/xaerominimap.txt",
             "MD5": "7c8da7bb7b549115de38de475d2c87f8",
             "path": "config/xaerominimap.txt"
           }
@@ -201,21 +232,10 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 2167,
-            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/HM_TabooWord_test-1.20.1/files/options.txt",
-            "MD5": "f88811cc4f7df7412ccb78124df6c3f8",
+            "size": 2142,
+            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/impulse_buying-1.20.1/files/options.txt",
+            "MD5": "b22abcbb17fb4a99b51f69c4e50d0f06",
             "path": "options.txt"
-          }
-        },
-        {
-          "id": "0415generated.zip",
-          "name": "0415generated.zip",
-          "type": "File",
-          "artifact": {
-            "size": 1793569,
-            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/HM_TabooWord_test-1.20.1/files/resourcepacks/0415generated.zip",
-            "MD5": "a78788145422a2836598a1284ca66d87",
-            "path": "resourcepacks/0415generated.zip"
           }
         },
         {
@@ -223,10 +243,21 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 76,
-            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/HM_TabooWord_test-1.20.1/files/servers.dat",
-            "MD5": "6b0070bc04cb7af8c5ec7f5ab4742545",
+            "size": 114,
+            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/impulse_buying-1.20.1/files/servers.dat",
+            "MD5": "09bb5964764a0b791427e55bc56fd40a",
             "path": "servers.dat"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.2.2.zip",
+          "name": "ComplementaryUnbound_r5.2.2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 441687,
+            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/impulse_buying-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.2.2.zip",
+            "MD5": "77b72dd3824ad2d6ddb1f952a786137c",
+            "path": "shaderpacks/ComplementaryUnbound_r5.2.2.zip"
           }
         }
       ]
