@@ -116,6 +116,16 @@
           ]
         },
         {
+          "id": "me.axieum.mcmod.authme.impl:authme:7.0.2+1.20@jar",
+          "name": "Auth Me",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1250699,
+            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/impulse_buying-1.20.1/fabricmods/required/authme-7.0.2+1.20.jar",
+            "MD5": "4154b45c0914932ce4c808b893f221f5"
+          }
+        },
+        {
           "id": "me.shedaniel.autoconfig.example:cloth-config:11.1.136@jar",
           "name": "Cloth Config v11",
           "type": "FabricMod",
@@ -133,6 +143,26 @@
             "size": 2107841,
             "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/impulse_buying-1.20.1/fabricmods/required/fabric-api-0.92.5+1.20.1.jar",
             "MD5": "9d6b286586e9d6b40ee161dee1dd271f"
+          }
+        },
+        {
+          "id": "generated.fabricmod:ferritecore:6.0.1@jar",
+          "name": "FerriteCore",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 125197,
+            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/impulse_buying-1.20.1/fabricmods/required/ferritecore-6.0.1-fabric.jar",
+            "MD5": "a19272e427f75fea59127de6610ea26b"
+          }
+        },
+        {
+          "id": "generated.fabricmod:immediatelyfast:1.5.1+1.20.4@jar",
+          "name": "ImmediatelyFast",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 242574,
+            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/impulse_buying-1.20.1/fabricmods/required/ImmediatelyFast-Fabric-1.5.1+1.20.4.jar",
+            "MD5": "351dca2ff05cbc00c9a32eb45976cb73"
           }
         },
         {
@@ -163,6 +193,26 @@
             "size": 448094,
             "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/impulse_buying-1.20.1/fabricmods/required/koreanpatch-fabric-1.6.13+mc1.20.1.jar",
             "MD5": "6e20891b8d2b8770569f819d4e765c4d"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods:lithium:0.11.3@jar",
+          "name": "Lithium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 706600,
+            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/impulse_buying-1.20.1/fabricmods/required/lithium-fabric-mc1.20.1-0.11.3.jar",
+            "MD5": "de6d394cedf7e33bfd4b03209156211a"
+          }
+        },
+        {
+          "id": "com.aizistral:nochatreports:1.20.1-v2.2.2@jar",
+          "name": "No Chat Reports",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 619812,
+            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/impulse_buying-1.20.1/fabricmods/required/NoChatReports-FABRIC-1.20.1-v2.2.2.jar",
+            "MD5": "62ebb770ad9e08008abf6df50a6a1aa7"
           }
         },
         {
