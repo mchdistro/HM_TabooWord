@@ -280,9 +280,20 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 2142,
+            "size": 2178,
             "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/impulse_buying-1.20.1/files/options.txt",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "충동구매 서버 0731.zip",
+          "name": "충동구매 서버 0731.zip",
+          "type": "File",
+          "artifact": {
+            "size": 209627,
+            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/impulse_buying-1.20.1/files/resourcepacks/%EC%B6%A9%EB%8F%99%EA%B5%AC%EB%A7%A4%20%EC%84%9C%EB%B2%84%200731.zip",
+            "MD5": "a9ef704657f7ada8c2ba626c14ff5ac8",
+            "path": "resourcepacks/충동구매 서버 0731.zip"
           }
         },
         {

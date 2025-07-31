@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric"]
+resourcePacks:["vanilla","fabric","file/충동구매 서버 0731.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:ko_kr
