@@ -266,6 +266,17 @@
           }
         },
         {
+          "id": "NCR-Client.json",
+          "name": "NCR-Client.json",
+          "type": "File",
+          "artifact": {
+            "size": 565,
+            "url": "https://github.com/mchdistro/HM_TabooWord/raw/main/servers/impulse_buying-1.20.1/files/config/NoChatReports/NCR-Client.json",
+            "MD5": "2fdc21dc322f4b67a6ddf00139dd5b85",
+            "path": "config/NoChatReports/NCR-Client.json"
+          }
+        },
+        {
           "id": "xaerominimap.txt",
           "name": "xaerominimap.txt",
           "type": "File",
